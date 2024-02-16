@@ -3,3 +3,6 @@
 env/
 images/*
 !images/
+learning_log/__pycache__/*
+learning_logs/migrations/__pycache__/*
+users/__pycache__/*
